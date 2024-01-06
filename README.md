@@ -16,6 +16,7 @@ Download the pre-trained model:
 bash
 Copy code
 wget https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth -P experiments/pretrained_models
+
 Step 2: Upload the Video File
 If Google Drive is not mounted:
 Create an "upload" folder if it doesn't exist.
